@@ -1,6 +1,6 @@
 {
   "name": "@mnguyen43/binance",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Binance API Connector for JavaScript/TypeScript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
