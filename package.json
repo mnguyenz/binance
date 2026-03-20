@@ -1,6 +1,6 @@
 {
   "name": "binance-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Binance API Connector for JavaScript/TypeScript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -10,7 +10,11 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["binance", "crypto", "sdk"],
+  "keywords": [
+    "binance",
+    "crypto",
+    "sdk"
+  ],
   "author": "Minh Nguyen",
   "license": "MIT",
   "devDependencies": {
